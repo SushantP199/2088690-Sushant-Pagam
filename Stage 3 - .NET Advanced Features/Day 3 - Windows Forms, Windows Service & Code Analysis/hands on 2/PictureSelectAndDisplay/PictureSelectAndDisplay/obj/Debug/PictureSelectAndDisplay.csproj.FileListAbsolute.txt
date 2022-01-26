@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\bin\Debug\PictureSelectAndDisplay.exe.config
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\bin\Debug\PictureSelectAndDisplay.exe
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\bin\Debug\PictureSelectAndDisplay.pdb
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.Form1.resources
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.Properties.Resources.resources
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.exe
+C:\Users\Owner\Desktop\cognizant\PictureSelectAndDisplay\PictureSelectAndDisplay\obj\Debug\PictureSelectAndDisplay.pdb
