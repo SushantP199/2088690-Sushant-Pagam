@@ -10,7 +10,7 @@ namespace Optional_Parameter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Entre the Seller Name");
+            Console.WriteLine("Enter the Seller Name");
             string seller_name = Console.ReadLine();
 
             Console.WriteLine("Enter the Product Name");

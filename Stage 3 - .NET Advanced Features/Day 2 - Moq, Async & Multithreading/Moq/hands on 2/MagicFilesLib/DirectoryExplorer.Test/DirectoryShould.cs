@@ -15,7 +15,8 @@ namespace DirectoryExplorer.Test
         private IDirectoryExplorer _directoryExplorer;
         private readonly string _file1 = "test1.txt";
         private readonly string _file2 = "test2.txt";
-        //private readonly string _file3 = "test3.txt";         [SetUp]
+
+        [SetUp]
         public void Initialize()
         {
             _directoryExplorer = Mock.Of<IDirectoryExplorer>(); Mock.Get(_directoryExplorer)
@@ -28,6 +29,7 @@ namespace DirectoryExplorer.Test
             //_file3
         });
         }
+
         [Test]
         public void GetFile_Tests()
         {
