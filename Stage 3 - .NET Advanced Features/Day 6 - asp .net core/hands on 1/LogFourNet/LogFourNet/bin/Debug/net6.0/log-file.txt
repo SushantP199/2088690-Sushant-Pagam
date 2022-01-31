@@ -1,0 +1,1 @@
+2022-01-31 23:25:44,345 [6] INFO  LogFourNet.Controllers.HomeController [(null)] - Hello logging world log4net!

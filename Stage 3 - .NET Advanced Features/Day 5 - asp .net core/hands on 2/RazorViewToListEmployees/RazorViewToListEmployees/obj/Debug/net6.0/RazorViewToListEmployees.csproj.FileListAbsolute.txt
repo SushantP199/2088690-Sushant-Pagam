@@ -1,0 +1,8 @@
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.AssemblyInfo.cs
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.RazorAssemblyInfo.cache
+C:\Users\Owner\Desktop\RazorViewToListEmployees\RazorViewToListEmployees\obj\Debug\net6.0\RazorViewToListEmployees.RazorAssemblyInfo.cs
