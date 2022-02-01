@@ -22,7 +22,7 @@ namespace MyFoodSupplyTest
             }
 
             [Test]
-            [TestCase("spp", 2, "2030-07-28", 30.03)]
+            [TestCase("SushantPagam", 2, "2030-07-28", 30.03)]
             public void FoodDetailObjectCreationTest(string name, int dishType, DateTime expiryDate, double price)
             {
                 var result = program.CreateFoodDetail(name, dishType, expiryDate, price);
@@ -37,14 +37,14 @@ namespace MyFoodSupplyTest
             }
 
             [Test]
-            [TestCase("spp", 1, "2020-11-16", -10.50)]
+            [TestCase("SushantPagam", 1, "2020-11-16", -10.50)]
             public void NegativePriceTest(string name, int dishType, DateTime expiryDate, double price)
             {
                 Assert.Throws<Exception>(() => program.CreateFoodDetail(name, dishType, expiryDate, price));
             }
 
             [Test]
-            [TestCase("spp", 4, "2019-08-06", 100.5)]
+            [TestCase("SushantPagam", 4, "2019-08-06", 100.5)]
             public void ExpiryDateLessThanCurrentDateTest(string name, int dishType, DateTime expiryDate, double price)
             {
                 Assert.Throws<Exception>(() => program.CreateFoodDetail(name, dishType, expiryDate, price));

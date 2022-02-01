@@ -11,14 +11,14 @@ namespace GenericMedicineTest
     [TestFixture]
     public class CreateCartonDetailTest
     {
-        Program program = null;
+        Program program;
 
         Medicine medicine = new Medicine()
         {
             Id = 1,
-            Name = "spp",
-            GenericMedicineName = "pcm",
-            Composition = "coo",
+            Name = "SushantPagam",
+            GenericMedicineName = "Dolo650",
+            Composition = "paracetamol",
             ExpiryDate = new DateTime(2023, 01, 01),
             PricePerStrip = 4.5
         };
@@ -30,7 +30,7 @@ namespace GenericMedicineTest
         }
 
         [Test]
-        [TestCase(10, "2022-04-09", "ijk")]
+        [TestCase(10, "2022-04-09", "mumbai")]
         public void CartonObjectCreationTest(int c, DateTime date, string addr)
         {
 
@@ -38,21 +38,21 @@ namespace GenericMedicineTest
         }
 
         [Test]
-        [TestCase(-1, "2021-02-17", "ijk")]
+        [TestCase(-1, "2021-02-17", "mumbai")]
         public void StripCountTest(int c, DateTime date, string addr)
         {
             Assert.That(() => program.CreateCartonDetail(c, date, addr, medicine), Throws.Exception);
         }
 
         [Test]
-        [TestCase(10, "2020-01-11", "ijk", null)]
+        [TestCase(10, "2020-01-11", "mumbai", null)]
         public void NullMedicineObjectTest(int c, DateTime date, string addr, Medicine med)
         {
             Assert.AreEqual(program.CreateCartonDetail(c, date, addr, med), null);
         }
 
         [Test]
-        [TestCase(10, "2019-12-20", "ijk")]
+        [TestCase(10, "2019-12-20", "mumbai")]
         public void LaunchDateLessThanCurrentDateTest(int c, DateTime date, string addr)
         {
             Assert.That(() => program.CreateCartonDetail(c, date, addr, medicine), Throws.Exception);

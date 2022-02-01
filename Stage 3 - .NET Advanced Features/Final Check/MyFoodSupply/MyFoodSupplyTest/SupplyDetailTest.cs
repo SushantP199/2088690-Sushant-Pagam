@@ -20,7 +20,7 @@ namespace MyFoodSupplyTest
         }
 
         [Test]
-        [TestCase(4, "2022-06-10", "spp", 120.40)]
+        [TestCase(4, "2022-06-10", "SushantPagam", 120.40)]
         public void SupplyDetailObjectCreationTest(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge)
         {
             FoodDetail item = program.CreateFoodDetail("abc", 1, new DateTime(2025, 01, 05), 8.55);
@@ -29,14 +29,14 @@ namespace MyFoodSupplyTest
         }
 
         [Test]
-        [TestCase(1, "2020-05-01", "spp", 150.00)]
+        [TestCase(1, "2020-05-01", "SushantPagam", 150.00)]
         public void FoodItemIsNullTest(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge)
         {
             Assert.AreEqual(program.CreateSupplyDetail(foodItemCount, requestDate, sellerName, packingCharge, null), null);
         }
        
         [Test]
-        [TestCase(2, "2018-07-15", "spp", 1.5)]
+        [TestCase(2, "2018-07-15", "SushantPagam", 1.5)]
         public void RequestDateLessThanCurrentDateTest(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge)
         {
             FoodDetail item = program.CreateFoodDetail("abc", 1, new DateTime(2025, 01, 05), 8.55);
@@ -44,7 +44,7 @@ namespace MyFoodSupplyTest
         }
 
         [Test]
-        [TestCase(-3, "2017-08-28", "spp", 200.002)]
+        [TestCase(-3, "2017-08-28", "SushantPagam", 200.002)]
         public void FoodItemCountLessThanZeroTest(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge)
         {
             FoodDetail item = program.CreateFoodDetail("abc", 1, new DateTime(2025, 01, 05), 8.55);
