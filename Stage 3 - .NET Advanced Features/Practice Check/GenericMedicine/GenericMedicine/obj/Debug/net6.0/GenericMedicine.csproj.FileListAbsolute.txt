@@ -1,0 +1,30 @@
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.exe
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.deps.json
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.runtimeconfig.json
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.dll
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.pdb
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.AssemblyInfo.cs
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.dll
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\refint\GenericMedicine.dll
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.pdb
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.genruntimeconfig.cache
+C:\Users\Owner\Downloads\GenericMedicine\GenericMedicine\obj\Debug\net6.0\ref\GenericMedicine.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.exe
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.deps.json
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.runtimeconfig.json
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\bin\Debug\net6.0\GenericMedicine.pdb
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.AssemblyInfo.cs
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\refint\GenericMedicine.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.pdb
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\GenericMedicine.genruntimeconfig.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Practice Check\GenericMedicine\GenericMedicine\obj\Debug\net6.0\ref\GenericMedicine.dll

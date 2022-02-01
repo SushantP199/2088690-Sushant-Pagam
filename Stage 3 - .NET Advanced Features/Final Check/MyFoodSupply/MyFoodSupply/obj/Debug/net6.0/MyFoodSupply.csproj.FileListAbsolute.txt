@@ -1,0 +1,30 @@
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.exe
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.deps.json
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.runtimeconfig.json
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.dll
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.pdb
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.csproj.AssemblyReference.cache
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.AssemblyInfoInputs.cache
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.AssemblyInfo.cs
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.dll
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\refint\MyFoodSupply.dll
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.pdb
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.genruntimeconfig.cache
+C:\Users\Owner\Downloads\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\ref\MyFoodSupply.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.exe
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.deps.json
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.runtimeconfig.json
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\bin\Debug\net6.0\MyFoodSupply.pdb
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.AssemblyInfo.cs
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\refint\MyFoodSupply.dll
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.pdb
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\MyFoodSupply.genruntimeconfig.cache
+C:\Users\Owner\Desktop\cognizant\training\github\Stage 3 - .NET Advanced Features\Final Check\MyFoodSupply\MyFoodSupply\obj\Debug\net6.0\ref\MyFoodSupply.dll
