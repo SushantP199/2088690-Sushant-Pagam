@@ -14,7 +14,7 @@ namespace AdapterDesignPattern
         }
         public double getSpeed()
         {
-            return convertMPHtoKMPH(LuxuryCars.getSpeed());
+            return ConvertMPHtoKMPH(LuxuryCars.getSpeed());
         }
 
         public double getPrice()
@@ -27,7 +27,7 @@ namespace AdapterDesignPattern
             return usd * 0.84;
         }
 
-        private double convertMPHtoKMPH(double mph)
+        private double ConvertMPHtoKMPH(double mph)
         {
             return mph * 1.60934;
         }

@@ -7,6 +7,7 @@ namespace AdapterDesignPattern
     public interface MovableAdaptor
     {
         double getSpeed();
+
         double getPrice();
     }
 }

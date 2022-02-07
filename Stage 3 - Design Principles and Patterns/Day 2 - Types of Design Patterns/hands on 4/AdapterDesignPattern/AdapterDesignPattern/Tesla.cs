@@ -8,11 +8,11 @@ namespace AdapterDesignPattern
     {
         public double getSpeed()
         {
-            return 268;
+            return 300;
         }
         public double getPrice()
         {
-            return 200;
+            return 500;
         }
     }
 }
